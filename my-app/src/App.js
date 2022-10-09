@@ -1,7 +1,7 @@
 
 import './App.css';
 import Search from './components/search/search';
-
+import CurrentWeather from './components/current-weather/current-weather';
 
 
 function App() {
