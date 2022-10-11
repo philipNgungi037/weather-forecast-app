@@ -6,7 +6,7 @@ Technologies Used
 
 I've used reactJS. The reactJS plays the main role and I've taken the local data as JSON Format.  used API source data as an input, then use the Fetch method to get the JSON data from the API source and then feed that data as input.
 
-LIVE LINK https://philipngungi037.github.io/QuizApp-/
+LIVE LINK https://weather-app-at-philipngungis.netlify.app/
 
 More Updates
 
